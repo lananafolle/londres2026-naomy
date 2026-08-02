@@ -160,7 +160,14 @@ header p{
     cursor:pointer;
     padding:0;
 }
+#surpriseBtn{
+    position: relative;
+    z-index: 10;
+}
 
+#sparkles{
+    pointer-events: none;
+}
 #surpriseBtn img{
     width:220px;
     max-width:100%;
