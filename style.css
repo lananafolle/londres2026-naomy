@@ -445,3 +445,10 @@ header p{
         opacity:0;
     }
 }
+.clique-cadeau {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #d63384;
+    margin-bottom: 15px;
+}
